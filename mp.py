@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 st.title("mi biografia")
-st.header("juan miguel cáceres")
+st.header("Juan Miguel Cáceres Catolico")
 st.subheader("Bogotá:")
 st.write("Mi nombre es Juan Miguel Cáceres, tengo 17 años y soy de Bogotá, Colombia. Nací el 12 de septiembre de 2007. Viví en Bogotá gran parte de mi infancia, ya que allí residía toda mi familia y mis padres trabajaban en esa ciudad.Cursé prejardín y jardín en un lugar llamado Mis Angelitos Lindos, el cual me gustaba mucho a esa edad porque tenía una piscina de pelotas y muchos juegos con los que podía divertirme. Al llegar a la etapa de transición, me cambiaron a un colegio llamado Carmen Teresiano, que era bastante grande y tenía muchas más actividades y espacios que el jardín anterior.Sin embargo, solo estuve allí durante un año, ya que por motivos laborales de mi papá, nos mudamos a La Plata, Huila.")
 st.subheader("colegio teresiano:")
@@ -15,6 +15,11 @@ st.write("en este video podemos ver el viaje que relizamos a cartagena con los d
 st.subheader("mi graduacion:")
 st.write("la siguiente imagen es una imagen con mis papás y mi hermana en mi graduacion")
 st.image("graduacion_jpg.jpg")
+st.subheader("torneo de balonmano:")
+st.write("el siguiente video es muy importante para mi ya que en ese momento pasamos a la final y mi hermana nos estaba apoyando.")
+st.video("paso_final.mp4")
+st.subheader("foto de todo el equipo con el director del inderhuila:")
+st.image("celebracion.jpg")
 
 
 
