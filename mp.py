@@ -20,6 +20,9 @@ st.write("el siguiente video es muy importante para mi ya que en ese momento pas
 st.video("paso_final.mp4")
 st.subheader("foto de todo el equipo con el director del inderhuila:")
 st.image("celebracion.jpg")
+st.subheader("mi vida contemporanea:")
+st.write("actualmente estoy viviendo en Cali con mi hermana mayor y estoy en primer semestre de ingenieria de sistemas que es una carrera muy linda y muy interesante. al pasar del tiempo he encontrado muy buenos amigos y he disfrutado todas las experiencias que me ha dado la universidad. ")
+st.image("amigos.jpg")
 
 
 
